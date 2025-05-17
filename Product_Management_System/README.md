@@ -30,7 +30,7 @@ A complete **Product Management System** built using **Java Core**, **JSP**, **J
 | Architecture | MVC + DAO + Service          |
 | Build Tool | Maven                          |
 | Database   | MySQL (Optional, can use H2)   |
-| Server     | Apache Tomcat 9+               |
+| Server     | Apache Tomcat 11              |
 
 ---
 
