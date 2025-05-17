@@ -65,10 +65,7 @@ A complete **Product Management System** built using **Java Core**, **JSP**, **J
 - MySQL (optional if using database)
 - JSTL libraries in `/lib`
 
-### 🔧 Steps
 
-1. **Clone the repository**  
-   ```bash
   
 
 
