@@ -35,5 +35,41 @@ A complete **Product Management System** built using **Java Core**, **JSP**, **J
 ---
 
 ## 📁 Project Structure
+├── src/
+│   ├── com.product.controller/
+│   ├── com.product.dao/
+│   ├── com.product.model/
+│   └── com.product.util/
+├── WebContent/
+│   ├── css/
+│   ├── js/
+│   ├── images/
+│   ├── views/
+│   │   ├── addProduct.jsp
+│   │   ├── editProduct.jsp
+│   │   ├── listProducts.jsp
+│   └── index.jsp
+├── lib/
+├── web.xml
+
+
+---
+
+## 🧪 How to Run This Project
+
+### ✅ Prerequisites
+
+- Java JDK 8 or later
+- Apache Tomcat 9+
+- Eclipse or IntelliJ IDE (with dynamic web project support)
+- MySQL (optional if using database)
+- JSTL libraries in `/lib`
+
+### 🔧 Steps
+
+1. **Clone the repository**  
+   ```bash
+  
+
 
 
